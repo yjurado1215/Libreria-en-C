@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "libros.h": "c",
+        "registrarUsuarios.h": "c",
+        "login.h": "c"
+    }
+}
